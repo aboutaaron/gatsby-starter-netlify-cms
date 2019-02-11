@@ -9,4 +9,6 @@ tags:
   - react
   - netifly
 ---
+![](/img/screen-shot-2019-01-25-at-4.23.55-pm.png)
+
 I think this is a smart way to handle the Guild site!
